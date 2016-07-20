@@ -1,0 +1,173 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 11/06/2016, 19:41:21
+    Author     : Wagner
+*/
+body {
+    margin: 0px;
+    font-family: "Verdana", sans-serif;
+    /*font-size: 25px;
+    border-color: red;
+    border-style: solid;
+    border-width: 1px;*/
+}
+div{
+    margin: 10px;
+    padding-top: 15px;
+}
+/*
+#cabecalho {
+    border-color: red;
+    border-style: solid;
+    border-width: 1px;
+}
+#cabecalho img #cabecalho{
+    float: left;
+}
+ul li {
+    display: inline;
+}
+#cabecalho figure{
+    float: right;
+}
+
+h1{
+    border-style: solid;
+    border-color: brown;
+    border-width: 4px;
+}
+p {
+    border-color: brown;
+    border-style: solid;
+    border-width: 1px;
+    background-color: yellow;
+    color: blue;
+    font-family: monospace;
+    padding: 10px 20px 15px 5px;
+    line-height: 20px; 
+    letter-spacing: 3px; 
+    word-spacing: 5px; 
+    text-indent: 30px; 
+}
+figcaption {
+    font-style: italic;
+}
+
+label {
+    color:#3366ff;
+    font-size: 8px;
+}
+
+#rodape {
+    border-style: solid;
+    border-color: brown;
+    border-width: 4px;
+    margin-left:  5px;
+    margin-right: 5px;
+    color: #777;
+    padding-left: 30px;
+}
+
+#rodape img {
+    float: right;
+    padding-right: 20px;
+}
+
+*/
+
+.inputtexto {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    border: 1px solid #51A1BE;
+}
+.inputbotao {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    border: 1px solid #003366;
+    background-color:#2E76A6;
+    color:#FFFFFF;
+}
+
+.borderLine{
+    border: 1px solid #003148;
+}
+
+.table {
+    margin: 0px;
+    font: bold 12px Verdana;
+    background-color:#cccccc; 
+    color:#000000;
+}
+
+.title {
+    background-color:#003366;
+    MARGIN: 0px;
+    font: bold 12px Verdana;
+}
+
+.imagemLink {
+    cursor: pointer;
+    border: 0 solid #FFFFFF;
+    vertical-align:middle;
+}
+
+.cel{
+    color: #000000;
+    background-color:#7FB2CC;
+    text-align: center;
+    font-family:Verdana, Arial, Helvetica, sans-serif;        
+    font-size: 11px;
+    font-weight:bold;
+
+    padding:4px;
+    padding: 0 0 0 10px;
+}
+.celZebra1{
+    color: #000000;
+    background-color:#7FB2CC;
+    text-align: left;
+    font:11px Verdana, Arial, Helvetica, sans-serif;
+    height: 19px;
+}
+
+.celZebra2{
+    color: #000000;
+    background-color:#DBE9F1;
+    text-align:left;
+    font:11px Verdana, Arial, Helvetica, sans-serif;
+    height: 19px;
+}
+
+
+.inputReadOnly{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    border: 1px solid #003366;     
+    background-color: #cccccc ;  
+}
+
+.fieldMin{
+    FONT: normal 9px/10px Verdana, Helvetica, sans-serif;
+
+    BORDER-RIGHT:  #552B00 1px solid;
+    BORDER-LEFT:   #552B00 1px solid;
+    BORDER-TOP:    #552B00 1px solid;
+    BORDER-BOTTOM: #552B00 1px solid;
+}
+
+.colorClear{
+    color: #000000;
+    background-color: #E2E2E2;
+    text-align: center;
+    font:  normal 11px Verdana, Arial, Helvetica, sans-serif;
+    height: 19px;
+}
+.fieldDate{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    border: 1px solid #003366;
+}
